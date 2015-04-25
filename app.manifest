@@ -1,0 +1,22 @@
+{
+     "name": "Geolocation",
+     "description": "Maps app",
+     "launch_path": "/maps.html",
+	 "icons": {
+			"16": "/images/maps.png",
+			"48": "/images/maps.png",
+			"128": "/images/maps.png"
+	 },
+     "version": "1.0",
+     "developer": {
+          "name": "Ismael Slimane",
+		"url": "http://islimane.github.io"
+     },
+	 "permissions": {
+		"desktop-notification": {
+		  "description": "Geolocation"
+		}
+	  },
+     "default_locale": "en"
+}
+

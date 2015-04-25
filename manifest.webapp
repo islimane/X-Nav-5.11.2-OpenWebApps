@@ -1,0 +1,21 @@
+{
+	"name": "Open Geolocation",
+	"description": "A simple locator",
+	"launch_path": "/maps.html",
+	"icons": {
+		"16": "/images/maps.png",
+		"48": "/images/maps.png",
+		"128": "/images/maps.png"
+	},
+	"developer": {
+		"name": "Ismael Slimane",
+		"url": "http://islimane.github.io"
+	},
+	"default_locale": "en",
+	"permissions": {
+		"geolocation": {
+			"description": "Access to your position"
+		}
+	},
+	"chrome": { "navigation": true }
+}

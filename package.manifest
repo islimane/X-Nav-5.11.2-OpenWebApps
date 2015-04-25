@@ -1,0 +1,9 @@
+{
+	"name": "Open Geolocation",
+	"package_path" : "/maps.zip",
+	"version": "1",
+	"developer": {
+		"name": "Ismael Slimane",
+		"url": "islimane.github.io"
+	}
+}
